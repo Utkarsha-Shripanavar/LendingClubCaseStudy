@@ -77,7 +77,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@Utkarsha-Shripanavar,@KhyatiDesai09] - feel free to contact me!
+Created by [@Utkarsha-Shripanavar,@khyatidesai09] - feel free to contact me!
 
 
 <!-- Optional -->
