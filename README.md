@@ -49,9 +49,8 @@ Using concepts of EDA to understand how consumer attributes and loan attributes 
  
  Upon doing the bivariate analysis over the categorical variables with respect to target variable loan_status it can be concluded that :- 
    - Borrower who choose term of 60 months tend to have 30% more chances of default then people with loan term of 30 months
-   - Borrower who work in grade F and G tends to have higher defaulting chances of 30% then compared to other grades 
-   - Borrower who work in Sub grade F5 have 50% chances of defaulting
-   - Borrower whose has houseownership as 'other' have slightly higher tendency of defaulting
+   - Borrower who take loan grade is of F and G tends to have higher defaulting chances of 30% then compared to other grades 
+   - Borrower who take loan Sub grade F5 have 50% chances of defaulting
    - Borrower who apply for the loan with the purpose of 'small business' have 30% more chances of defaulting then other purposes.
    
   Upon doing a bivariate analysis on numerical variables with respect to target variable loan_status it can be concluded that :-
@@ -65,7 +64,7 @@ Using concepts of EDA to understand how consumer attributes and loan attributes 
 
 
 ## Technologies Used
-Python Jupyter version 3.8
+Python Jupyter version 3
 GitHub
 
 
@@ -74,12 +73,11 @@ GitHub
 ## Acknowledgements
 Give credit here.
 - This project was inspired by EDA module
-- References if any...
 - This project was based on learnings acquired in this tutorial https://learn.upgrad.com/course/4476/segment/32128/190535/586561/3000753
 
 
 ## Contact
-Created by [@Utkarsha-Shripanavar] - feel free to contact me!
+Created by [@Utkarsha-Shripanavar,@KhyatiDesai09] - feel free to contact me!
 
 
 <!-- Optional -->
